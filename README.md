@@ -1,2 +1,4 @@
 # hello-world
-Github Trials and Errors
+I had to do this anyways!!!
+you got to love it. 
+much respect to programmers.
